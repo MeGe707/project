@@ -1,0 +1,53 @@
+.top-navbar{
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    height: 70px;
+    width:  1920px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 5.0px rgb(201, 201, 201) solid;
+}
+
+.menu-sign{
+    width: 42px;
+    height: 35px;
+    position: fixed;
+    right: 40px;
+    top: 16px;
+   
+}
+
+.logo{
+    position: fixed;
+    left: 25px;
+    top: 6px;
+}
+
+.communication-link{
+    color: rgba(39, 38, 38, 0.8); 
+    position: fixed;
+    right: 132px;
+    top: 5.83px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about-us-link{
+    color: rgba(39, 38, 38, 0.8);
+    position: fixed;
+    right: 290px;
+    top: 5.83px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.book-recommendations-link{
+    color: rgba(39, 38, 38, 0.8);
+    position: fixed;
+    right: 450px;
+    top: 5.83px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+
+.text{
+    top: 80px;
+}
